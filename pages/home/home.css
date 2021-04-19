@@ -1,5 +1,5 @@
 ion-content {
-  background: linear-gradient(to right, #403b4a, #e7e9bb);
+  background: linear-gradient(to right, #bbd2c5, #536976, #292e49);
 }
 
 h2 {
@@ -7,5 +7,6 @@ h2 {
 }
 
 p {
-  
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
 }
